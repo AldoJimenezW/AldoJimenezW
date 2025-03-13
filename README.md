@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Aldo 👋
 
-<!--
-**AldoJimenezW/AldoJimenezW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌿 Software Engineer & Tech Enthusiast
 
-Here are some ideas to get you started:
+Passionate about software development, low-level programming, and creating efficient solutions. I thrive on exploring the intersections of technology, minimalism, and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏔️ Tech Landscape
+
+I navigate through the world of software development like traversing a complex landscape:
+- Crafting code with precision in C, Python, and JavaScript
+- Exploring the depths of Linux systems and shell scripting
+- Building robust solutions with Docker and agile methodologies
+
+### 🌊 Current Streams
+
+- 💻 Working as a Developer at Cloud And Digital
+- 🎓 Computer Science Engineering student at Universidad Adolfo Ibáñez
+- 🚀 Constantly learning and expanding my technological horizons
+
+### 🌱 Beyond the Code
+
+When I'm not coding, you'll find me:
+- Exploring minimalist design principles
+- Engaging in STEM activities
+- Enjoying sports and the tech world
+
+### 🌄 Let's Connect
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/your-linkedin-username)
+[<img src="https://img.shields.io/badge/Email-green?style=flat-square&logo=gmail" alt="Email">](mailto:aldojimenezw@gmail.com)
