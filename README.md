@@ -1,6 +1,6 @@
 # Hi there, I'm Aldo 👋
 
-## 🌿 Software Engineer & Tech Enthusiast
+## 🌿 Computer Engineer & Tech Enthusiast
 
 Passionate about software development, low-level programming, and creating efficient solutions. I thrive on exploring the intersections of technology, minimalism, and innovation.
 
@@ -26,5 +26,4 @@ When I'm not coding, you'll find me:
 
 ### 🌄 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/your-linkedin-username)
-[<img src="https://img.shields.io/badge/Email-green?style=flat-square&logo=gmail" alt="Email">](mailto:aldojimenezw@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">](https://www.linkedin.com/in/aldo-jim%C3%A9nez-wiehoff/)
